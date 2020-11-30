@@ -3,7 +3,7 @@
 ### Plot.ly Homework
 This project manages its dependencies using pip.
 
-#### System Requirements:
+#### Minimum System Requirements:
 
 certifi==2018.4.16
 click==6.7
